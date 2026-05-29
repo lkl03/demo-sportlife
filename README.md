@@ -1,2 +1,7 @@
-# demo-sportlife
-Demo web para SPORTLIFE — diseñada por eterlab.
+# SPORTLIFE
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
